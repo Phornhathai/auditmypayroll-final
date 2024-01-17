@@ -1,0 +1,10 @@
+.payslips {
+  width: calc(100vw - 200px);
+  height: 100vh;
+  background-color: white;
+  color: var(--Pink--Text);
+  background-image: url(../../../public/images/AuditMyPayroll-patternbg-pattern.svg);
+  background-repeat: repeat-y;
+  background-position: right top;
+  display: flex;
+}
